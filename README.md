@@ -1,3 +1,3 @@
 # hello-world
 
-i think you know what its is
+i have no clue what im doing
